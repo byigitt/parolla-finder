@@ -1,6 +1,9 @@
 # Parolla Finder
-
 _veritabanınız public olmadığından repo küçük bir scraper de içeriyor. sqlite, axios ve knex yardımı ile scraper de yaptım. dakikada 60 request ile 3-4 saat çalıştırmama rağmen arada gelmeyen idler mevcut. benim şansıma mı gelmedi yoksa o idler veritabanınızda mı yok onu da bilmiyorum. lütfen databasenizi public yapın :(_
+
+## Demo
+![](https://github.com/byigitt/parolla-finder/blob/main/images/demo.gif)
+
 
 ## İçindekiler
 - Scraper yardımı ile (neredeyse) tüm veritabanı dosyada.
